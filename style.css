@@ -8,6 +8,7 @@ body{
     width: 200px;
     height: 200px;
     border: solid;
+    cursor: pointer;
 }
 #Div1{
     color: rgb(12, 12, 241);

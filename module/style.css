@@ -1,0 +1,10 @@
+.square{
+    background-color: rgb(237, 241, 238);
+    margin: 50px 200px;
+    height: 50px;
+    border: solid;
+    cursor: pointer;
+    border: darkred solid;
+    text-align: center ;
+    
+}
